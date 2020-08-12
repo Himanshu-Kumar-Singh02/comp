@@ -1,0 +1,108 @@
+#about{
+  text-align: center;
+  padding: 7% 26%;
+}
+
+.nav-link{
+  margin-left:20px;
+}
+
+.sig{
+  height: 120px;
+  width: 200px;
+}
+
+#tag{
+  background-color: black;
+}
+
+.ca{
+  background-color: black;
+  color: white;
+}
+
+#enquiry{
+  background-color: lightgrey;
+  text-align: center;
+  padding:7% 26%;
+}
+
+/* form{
+    padding:3% 26%;
+} */
+
+.c{
+  height: 50px;
+}
+
+#quotes{
+    padding:7% 16%;
+  text-align: center;
+  background-color: lightgreen;
+}
+.container-fluid.qut{
+  padding: 10% 0%;
+}
+
+#skills{
+    padding: 7% 12%;
+}
+
+#menu{
+  padding: 7% 12%;
+}
+#vedio{
+  padding: 7% 12%;
+  text-align: center;
+}
+img{
+  height: 100%;
+  width:100%;
+}
+.ld{
+  color: grey;
+text-decoration: none;
+}
+.fa-arrow-down{
+  box-shadow: 2px 2px 4px #000000;
+
+}
+
+.fa-arrow-down:hover{
+  transform: scale(1.2);
+
+  /* font-size: 30px; */
+}
+
+#strip{
+  padding: 7% 8%;
+  background-color: green;
+  color: white;
+}
+ .fas{
+   font-size: 2rem;
+ }
+.td1{
+  padding-right: 10%;
+}
+#strip2{
+  padding: 7% 8%;
+  /* background-color: green;
+  color: white; */
+}
+video{
+  height: 800px;
+  width: 800px;
+  /* padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%; */
+  /* background-color: lightgrey; */
+}
+/* video poster{
+  height: 100%;
+  width: 100%;
+} */
+.embed-responsive-item{
+  padding: 1%;
+  background-color: grey;
+}
